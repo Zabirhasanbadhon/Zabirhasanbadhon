@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Python Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Zabirhasanbadhon)**
+- 👨‍💻 All of my projects are available at **[My Profile](https://github.com/Zabirhasanbadhon)**
 
 - 💬 Ask me about **ML, Python, Java, Android App Development, MySQL**
 
