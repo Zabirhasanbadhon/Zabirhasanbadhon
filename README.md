@@ -32,3 +32,37 @@ I am a Software Engineering student, a passionate leader and a technology enthus
 -  ⚡ Fun fact I can speak multiple language **Bangla, Chinese, English, Hindi**
 
 - ⚡ Boring fact **I Can't Speak To Much**
+
+
+
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+	  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+		<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/fa314a/django.png"/> </a>   
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+	 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/ios/50/fa314a/c.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>   
+   
+</p>
+
+
+
+
+<br/>
+<br/>
+
+
+<br/>
+<br/>
+
+## Connect with me:❤
+<p align="left">
+<a href = "https://www.linkedin.com/in/zabir-hasan-379897266/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/Zabir29250512"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/zabir_hasan_badhon/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/profile.php?id=100007746092321"><img src="https://img.icons8.com/fluent/50/fa314a/facebook-new.png"/></a>
+</p>
