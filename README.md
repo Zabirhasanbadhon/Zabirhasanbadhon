@@ -22,6 +22,20 @@
 
 - ⚡ Fun fact **I am Funny**
 
+
+
+
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">大家好 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">我是张涵，很高兴认识你！</h1>
+<h3 align="center"> <a href="http://english.ynu.edu.cn/">YNU</a> Graduate</h3>
+<h4 align="center"> I Always Consider my tasks as my first priority. I like Coding Very Much. </br>
+My Study field is Software Engineering from My Diploma Course, i am a passionate Student and Developer in Software field who loves keep learning new technologies and applying those new technologies to solve some issues which is exist in Real-World.
+</br>I have Finished My Bachelor's Degree with a Major Software Engineering From a prestigious School. Most of the time i spend to learn some amazing technologies and share my ideas with others. </h4>
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zabir29250512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zabir29250512" height="30" width="40" /></a>
