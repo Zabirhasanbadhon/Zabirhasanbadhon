@@ -7,8 +7,9 @@
 
 <h1 align="center">大家好 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">我是张涵，很高兴认识你！</h1>
 <h3 align="center">   <a href="http://english.ynu.edu.cn/">YNU</a> Graduate</h3>
-<h4 align="center"> I care about doing my work in time and fast, focusing on solutions, communicating clearly and being cheerful while working. </br>
-I am a Software Engineering student, a passionate leader and a technology enthusiast who loves keep learning and applying new technologies to solve real-world issue. </br>I love programming and sharing ideas, and everyday every time I am in learning. I am never afraid of learning.</h4>
+<h4 align="center"> I am Always Consider my tasks as my first priority. I like Coding Very Much </br>
+My Study field is Software Engineering from My Diploma Course, i am a passionate Student and Developer in Software field who loves keep learning new technologies and applying those new technologies to solve some issues which is exist in Real-World. 
+</br>I love to learn programming. Most of the time i spend to learn some amazing technologies and share my ideas with others </h4>
 
 
 ## 🙋‍♂️ About Me
@@ -29,7 +30,7 @@ I am a Software Engineering student, a passionate leader and a technology enthus
 - 🔭 I am Currently Working with My **Supervisor**
 
 - 🌱 I have learned Some Mathmetical Skills for **Machine Learning**
--
+
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Zabirhasanbadhon)**
