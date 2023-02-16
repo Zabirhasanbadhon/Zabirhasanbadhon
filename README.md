@@ -14,12 +14,12 @@ I am a Software Engineering student, a passionate leader and a technology enthus
 ## 🙋‍♂️ About Me
 
 
-- 🔭 I’m currently working on Book Recommendation System.
-- 🌱 I’m currently learning Machine Learning.
-- 👯 I’m looking to collaborate on Projects.
-- 💬 Ask me about Machine Learning,Python,Java.
-- 📫 How to reach me: zabirhasanbadhon@gmail.com
-- ⚡ Fun fact: I can make Funny Joke.
+- 🔭 I’m currently working on **Book Recommendation System**.
+- 🌱 I’m currently learning **Machine Learning**.
+- 👯 I’m looking to collaborate on **Projects**.
+- 💬 Ask me about **Machine Learning, Python, Java, Android App Development, MySQL**
+- 📫 How to reach me: **zabirhasanbadhon@gmail.com**
+- ⚡ Fun fact: **I can make Funny Jokes**.
 
 - 🔭 I’m currently reading paper, articles, lots of paper and articles about AI.
 
