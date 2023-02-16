@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm ZABIR HASAN</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
@@ -19,7 +19,7 @@ I am a Software Engineering student, a passionate leader and a technology enthus
 - 👯 I’m looking to collaborate on Projects.
 - 💬 Ask me about Machine Learning,Python,Java.
 - 📫 How to reach me: zabirhasanbadhon@gmail.com
-- ⚡ Fun fact: I Can Play Basketball.
+- ⚡ Fun fact: I can make Funny Joke.
 
 - 🔭 I’m currently reading paper, articles, lots of paper and articles about AI.
 
