@@ -23,7 +23,7 @@ I am a Software Engineering student, a passionate leader and a technology enthus
 
 - 🔭 I’m currently reading paper, articles, lots of paper and articles about AI.
 
-- 🌱 I’m currently learning **mathematics-linear algebra, calculus, Convex Optimization, statistics and probability, ML**
+- 🌱 I’m currently learning Mathematics- **Linear algebra, Calculus, Convex Optimization, Statistics and Probability, ML**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
