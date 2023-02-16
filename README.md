@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/Fs4Fh8g3KxM3PEoGIB/giphy.gif)](https://github.com/Zabirhasanbadhon)
+[![MasterHead](https://www.capgemini.com/au-en/wp-content/uploads/sites/9/2018/11/delnext_blog_Artificial_intelligence_white-7.jpg)](https://github.com/Zabirhasanbadhon)
 
 <h1 align="center">Hi 👋, I'm ZABIR HASAN</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
