@@ -9,7 +9,7 @@
 <h3 align="center">   <a href="http://english.ynu.edu.cn/">YNU</a> Graduate</h3>
 <h4 align="center"> I am Always Consider my tasks as my first priority. I like Coding Very Much. </br>
 My Study field is Software Engineering from My Diploma Course, i am a passionate Student and Developer in Software field who loves keep learning new technologies and applying those new technologies to solve some issues which is exist in Real-World. 
-</br>I love programming and Coding. Most of the time i spend to learn some amazing technologies and share my ideas with others. </h4>
+</br>I have Finished My Bachelor's Degree with a Major Software Engineering From a prestigious School in China . Most of the time i spend to learn some amazing technologies and share my ideas with others. </h4>
 
 
 ## 🙋‍♂️ About Me
