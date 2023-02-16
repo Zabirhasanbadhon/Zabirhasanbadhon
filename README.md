@@ -7,7 +7,7 @@
 
 <h1 align="center">大家好 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">我是张涵，很高兴认识你！</h1>
 <h3 align="center">   <a href="http://english.ynu.edu.cn/">YNU</a> Graduate</h3>
-<h4 align="center"> I am Always Consider my tasks as my first priority. I like Coding Very Much. </br>
+<h4 align="center"> I Always Consider my tasks as my first priority. I like Coding Very Much. </br>
 My Study field is Software Engineering from My Diploma Course, i am a passionate Student and Developer in Software field who loves keep learning new technologies and applying those new technologies to solve some issues which is exist in Real-World. 
 </br>I have Finished My Bachelor's Degree with a Major Software Engineering From a prestigious School. Most of the time i spend to learn some amazing technologies and share my ideas with others. </h4>
 
