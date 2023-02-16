@@ -51,14 +51,6 @@ I am a Software Engineering student, a passionate leader and a technology enthus
 
 
 
-
-<br/>
-<br/>
-
-
-<br/>
-<br/>
-
 ## Connect with me:❤
 <p align="left">
 <a href = "https://www.linkedin.com/in/zabir-hasan-379897266/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
