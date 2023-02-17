@@ -15,11 +15,11 @@
 
 - 🤝 I’m looking for help with **Python Projects**
 
-- 👨‍💻 All of my projects are available at **[My Profile](https://github.com/Zabirhasanbadhon)**
+- 👨‍💻 All of my projects are available at **[_My Profile_](https://github.com/Zabirhasanbadhon)**
 
 - 💬 Ask me about **ML, Python, Java, Android App Development, MySQL**
 
-- 📫 How to reach me **zabirhasanbadhon@gmail.com**
+- 📫 How to reach me **_zabirhasanbadhon@gmail.com_**
 
 - ⚡ Fun fact **I am Funny**
 
